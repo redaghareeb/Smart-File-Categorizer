@@ -1,0 +1,19 @@
+customtkinter>=5.2.0
+CTkMessagebox>=2.5
+python-docx>=1.1.0
+pdfplumber>=0.10.0
+openpyxl>=3.1.0
+python-pptx>=0.6.23
+Pillow>=10.0.0
+tqdm>=4.66.0
+
+# OCR
+easyocr>=1.7.0
+
+# Alternative OCR (optional)
+# paddlepaddle>=2.5.0
+# paddleocr>=2.7.0
+
+# Audio/Video transcription
+openai-whisper>=20231117
+# Also requires: ffmpeg (https://www.gyan.dev/ffmpeg/builds/)
